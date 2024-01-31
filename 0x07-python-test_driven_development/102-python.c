@@ -3,11 +3,10 @@
 #include <Python.h>
 
 /**
- * print_python_string - Prints python3 string of information
+ * print_python_string - Prints string information
  *
- * @p: python3 objects
- *
- * Return: nothing
+ * @p: Python Object
+ * Return: no return
  */
 void print_python_string(PyObject *p)
 {
